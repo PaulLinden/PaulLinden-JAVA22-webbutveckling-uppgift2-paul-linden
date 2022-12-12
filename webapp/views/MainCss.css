@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #ffffff;
+	height: 100vh;
+}
+
+h1 {
+	position: fixed;
+	top: 0;
+}
+
+h2 {
+	position: fixed;
+	top: 170px;
+}
+
+form {
+	position: fixed;
+	top: 80px;
+}
+
+.logoutForm {
+	position: fixed;
+	top: 700px;
+}
+
+footer {
+	position: fixed;
+	bottom: 20px;
+}
+
+p {
+	position: fixed;
+	top: 200px;
+	width: 500px;
+}
+
+.wrongError {
+	color: red;
+}
